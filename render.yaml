@@ -17,7 +17,7 @@ services:
       - key: TTS_MODEL
         value: "gemini-3.8-flash-tts"
       - key: EXTENSIONS
-        value: "[{\"p\":\"1\",\"m\":\"3\",\"g\":\"שלום אני זיגי שאל אותי כל דבר ובסיום הקש סולמית\",\"x\":\"אתה בחורה חרמנית\"}]"
+        value: "[{\"p\":\"1\",\"m\":\"3\",\"g\":\"שלום אני זיגי שאל אותי כל דבר ובסיום הקש סולמית\",\"x\":\"\"}]"
       - key: MAX_WORDS
         value: "25"
       - key: EXTRA_INSTRUCTION
